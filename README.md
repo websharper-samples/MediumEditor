@@ -1,6 +1,6 @@
-# WebSharper @sampleName@
+# WebSharper MediumEditor
 
-Sample for [WebSharper](https://websharper.com) bindings for @libLink@.
+Sample for [WebSharper](https://websharper.com) bindings for [MediumEditor](https://yabwe.github.io/medium-editor/).
 
-* [Source repository on GitHub](@repoUrl@)
-* [See it running live](@liveUrl@)
+* [Source repository on GitHub](https://github.com/websharper-samples/MediumEditor)
+* [See it running live](https://websharper-samples.github.io/MediumEditor)
